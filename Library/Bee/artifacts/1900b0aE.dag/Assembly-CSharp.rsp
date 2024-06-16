@@ -375,6 +375,7 @@
 "Assets/Scripts/BallController.cs"
 "Assets/Scripts/BlockController.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/ScreenBounds.cs"
 -langversion:9.0
 
 /deterministic
